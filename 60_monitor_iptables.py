@@ -1,6 +1,5 @@
 #!/usr/bin/env python  
 # -*- coding:utf-8 -*- 
-# __author__ = 'yanzhengbin'
 # __time__   = '2018/5/28 10:31'
 
 import os
